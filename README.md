@@ -1,4 +1,4 @@
-gitkraken_training
+# gitkraken_training
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
