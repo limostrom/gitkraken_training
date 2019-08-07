@@ -23,6 +23,7 @@ Contributions and references are included in the source code files.
 
 ## Licensing
 This is all available as CC BY 4.0 license. Enjoy!
+<<<<<<< HEAD
 
 ## Other Notes
 GitHubEnterprise protected behind HarvardKey
@@ -37,3 +38,5 @@ The work is done & debugged
 (One particular task / section to add)
 Early/in-progress commits are sometimes okay but label them well
 Do not save git repositories within Dropbox or OneDrive folders
+=======
+>>>>>>> master
